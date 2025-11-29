@@ -56,6 +56,6 @@ body{
     /* height: 100vh; */
      background-image: linear-gradient(
         rgba(0,0,0,0.7),
-        rgba(0,0,0,0.7) ), url('../images/bg01.jpg');
+        rgba(0,0,0,0.7) ), url('https://images.pexels.com/photos/1933239/pexels-photo-1933239.jpeg?cs=srgb&dl=pexels-therato-1933239.jpg&fm=jpg');
 }
 

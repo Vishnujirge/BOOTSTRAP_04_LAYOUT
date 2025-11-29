@@ -33,3 +33,29 @@ body{
     object-fit: cover;
 
 }
+
+
+
+.parallax{
+    /* background-image: url('../images/m-demo.jpg'); */
+     background-image: linear-gradient(
+        rgba(0,0,0,0.7),
+        rgba(0,0,0,0.7)), url('../images/bg01.jpg');
+    /* height: 100vh; */
+}
+
+
+.playBtn ,.parallax{
+   background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.playBtn{
+    /* height: 100vh; */
+     background-image: linear-gradient(
+        rgba(0,0,0,0.7),
+        rgba(0,0,0,0.7) ), url('../images/bg01.jpg');
+}
+
